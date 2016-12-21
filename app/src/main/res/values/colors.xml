@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#c21c21</color>
+    <color name="maroon">#800000</color>
+    <color name="blue">#487cb0</color>
+    <color name="black">#2b2a2a</color>
+
+    <color name="maroon_to">#bd1a20</color>
+
+    <!-- login screen. -->
+    <color name="nav_item">#565656</color>
+    <color name="aqua">#00FFFF</color>
+
+</resources>
